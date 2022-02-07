@@ -7,7 +7,7 @@ deployment link: https://todo-list-28e0d.web.app/
 You can create your todo-list here by simply adding the title and desctiption of your
 todos that you want to store.
 
-![Create](./img/create.png)
+![Create](../img/create.png)
 
 
 after submitting your todo you can see it under the todo list tab.
