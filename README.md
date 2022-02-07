@@ -12,13 +12,13 @@ todos that you want to store.
 
 after submitting your todo you can see it under the todo list tab.
 
-![Show](./img/show.png)
+![Show](https://github.com/ibewithu/todo-app-/blob/main/todos-app/img/show.png)
 
 
 if you think you have completed any of the todos displayed on the same tab you can delete it
 by simply clicking the delete button below the same.
 
-![Delete](./img/delete.png)
+![Delete](https://github.com/ibewithu/todo-app-/blob/main/todos-app/img/delete.png)
 
 Enjoy!
 
